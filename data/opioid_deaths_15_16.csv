@@ -1,0 +1,155 @@
+Notes,State,State Code,Year,Year Code,Deaths,Population,Crude Rate
+,Alabama,1,2015,2015,292,4858979,6.0095
+,Alabama,1,2016,2016,351,4863300,7.2173
+,Alaska,2,2015,2015,92,738432,12.4588
+,Alaska,2,2016,2016,101,741894,13.6138
+,Arizona,4,2015,2015,701,6828065,10.2665
+,Arizona,4,2016,2016,806,6931071,11.6288
+,Arkansas,5,2015,2015,208,2978204,6.9841
+,Arkansas,5,2016,2016,175,2988248,5.8563
+,California,6,2015,2015,2130,39144818,5.4413
+,California,6,2016,2016,2146,39250017,5.4675
+,Colorado,8,2015,2015,512,5456574,9.3832
+,Colorado,8,2016,2016,560,5540545,10.1073
+,Connecticut,9,2015,2015,692,3590886,19.271
+,Connecticut,9,2016,2016,868,3576452,24.2699
+,Delaware,10,2015,2015,138,945934,14.5888
+,Delaware,10,2016,2016,159,952065,16.7005
+,District of Columbia,11,2015,2015,100,672228,14.8759
+,District of Columbia,11,2016,2016,213,681170,31.2697
+,Florida,12,2015,2015,1886,20271272,9.3038
+,Florida,12,2016,2016,2847,20612439,13.812
+,Georgia,13,2015,2015,877,10214860,8.5855
+,Georgia,13,2016,2016,944,10310371,9.1558
+,Hawaii,15,2015,2015,65,1431603,4.5404
+,Hawaii,15,2016,2016,82,1428557,5.7401
+,Idaho,16,2015,2015,91,1654930,5.4987
+,Idaho,16,2016,2016,122,1683140,7.2484
+,Illinois,17,2015,2015,1440,12859995,11.1975
+,Illinois,17,2016,2016,2013,12801539,15.7247
+,Indiana,18,2015,2015,564,6619680,8.52
+,Indiana,18,2016,2016,828,6633053,12.4829
+,Iowa,19,2015,2015,183,3123899,5.8581
+,Iowa,19,2016,2016,195,3134693,6.2207
+,Kansas,20,2015,2015,167,2911641,5.7356
+,Kansas,20,2016,2016,164,2907289,5.641
+,Kentucky,21,2015,2015,911,4425092,20.5871
+,Kentucky,21,2016,2016,1012,4436974,22.8083
+,Louisiana,22,2015,2015,296,4670724,6.3373
+,Louisiana,22,2016,2016,359,4681666,7.6682
+,Maine,23,2015,2015,246,1329328,18.5056
+,Maine,23,2016,2016,306,1331479,22.982
+,Maryland,24,2015,2015,1100,6006401,18.3138
+,Maryland,24,2016,2016,1847,6016447,30.6992
+,Massachusetts,25,2015,2015,1583,6794422,23.2985
+,Massachusetts,25,2016,2016,2025,6811779,29.7279
+,Michigan,26,2015,2015,1332,9922576,13.4239
+,Michigan,26,2016,2016,1795,9928300,18.0796
+,Minnesota,27,2015,2015,346,5489594,6.3028
+,Minnesota,27,2016,2016,404,5519952,7.3189
+,Mississippi,28,2015,2015,157,2992333,5.2467
+,Mississippi,28,2016,2016,184,2988726,6.1565
+,Missouri,29,2015,2015,716,6083672,11.7692
+,Missouri,29,2016,2016,940,6093000,15.4275
+,Montana,30,2015,2015,49,1032949,4.7437
+,Montana,30,2016,2016,43,1042520,4.1246
+,Nebraska,31,2015,2015,60,1896190,3.1642
+,Nebraska,31,2016,2016,47,1907116,2.4645
+,Nevada,32,2015,2015,476,2890845,16.4658
+,Nevada,32,2016,2016,455,2940058,15.4759
+,New Hampshire,33,2015,2015,386,1330608,29.0093
+,New Hampshire,33,2016,2016,445,1334795,33.3385
+,New Jersey,34,2015,2015,879,8958013,9.8124
+,New Jersey,34,2016,2016,1465,8944469,16.3788
+,New Mexico,35,2015,2015,376,2085109,18.0326
+,New Mexico,35,2016,2016,368,2081015,17.6837
+,New York,36,2015,2015,2224,19795791,11.2347
+,New York,36,2016,2016,3088,19745289,15.6392
+,North Carolina,37,2015,2015,1189,10042802,11.8393
+,North Carolina,37,2016,2016,1544,10146788,15.2166
+,North Dakota,38,2015,2015,36,756927,4.7561
+,North Dakota,38,2016,2016,55,757952,7.2564
+,Ohio,39,2015,2015,2758,11613423,23.7484
+,Ohio,39,2016,2016,3688,11614373,31.7538
+,Oklahoma,40,2015,2015,447,3911338,11.4283
+,Oklahoma,40,2016,2016,452,3923561,11.5201
+,Oregon,41,2015,2015,340,4028977,8.4389
+,Oregon,41,2016,2016,324,4093465,7.9151
+,Pennsylvania,42,2015,2015,1387,12802503,10.8338
+,Pennsylvania,42,2016,2016,2264,12784227,17.7093
+,Rhode Island,44,2015,2015,258,1056298,24.4249
+,Rhode Island,44,2016,2016,281,1056426,26.5991
+,South Carolina,45,2015,2015,581,4896146,11.8665
+,South Carolina,45,2016,2016,657,4961119,13.243
+,South Dakota,46,2015,2015,28,858469,3.2616
+,South Dakota,46,2016,2016,44,865454,5.084
+,Tennessee,47,2015,2015,1074,6600299,16.272
+,Tennessee,47,2016,2016,1236,6651194,18.5831
+,Texas,48,2015,2015,1350,27469114,4.9146
+,Texas,48,2016,2016,1434,27862596,5.1467
+,Utah,49,2015,2015,463,2995919,15.4544
+,Utah,49,2016,2016,483,3051217,15.8297
+,Vermont,50,2015,2015,83,626042,13.2579
+,Vermont,50,2016,2016,103,624594,16.4907
+,Virginia,51,2015,2015,832,8382993,9.9249
+,Virginia,51,2016,2016,1145,8411808,13.6118
+,Washington,53,2015,2015,716,7170351,9.9856
+,Washington,53,2016,2016,730,7288000,10.0165
+,West Virginia,54,2015,2015,664,1844128,36.0062
+,West Virginia,54,2016,2016,765,1831102,41.7781
+,Wisconsin,55,2015,2015,633,5771337,10.968
+,Wisconsin,55,2016,2016,877,5778708,15.1764
+,Wyoming,56,2015,2015,48,586107,8.1896
+,Wyoming,56,2016,2016,52,585501,8.8813
+---,,,,,,,
+"Dataset: Multiple Cause of Death, 1999-2016",,,,,,,
+Query Parameters:,,,,,,,
+Title:,,,,,,,
+2013 Urbanization: All,,,,,,,
+Autopsy: All,,,,,,,
+Gender: All,,,,,,,
+Hispanic Origin: All,,,,,,,
+"MCD - ICD-10 Codes: T40.0 (Opium), T40.1 (Heroin), T40.2 (Other opioids), T40.3 (Methadone), T40.4 (Other synthetic narcotics),",,,,,,,
+T40.6 (Other and unspecified narcotics),,,,,,,
+Place of Death: All,,,,,,,
+Race: All,,,,,,,
+States: All,,,,,,,
+Ten-Year Age Groups: All,,,,,,,
+UCD - ICD-10 Codes: All,,,,,,,
+Weekday: All,,,,,,,
+"Year/Month: 2015, 2016",,,,,,,
+"Group By: State, Year",,,,,,,
+Show Totals: False,,,,,,,
+Show Zero Values: False,,,,,,,
+Show Suppressed: False,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),,,,,,,
+---,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information.,,,,,,,
+---,,,,,,,
+"Query Date: Nov 2, 2018 4:23:43 PM",,,,,,,
+---,,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death",,,,,,,
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as",,,,,,,
+compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed,,,,,,,
+"at http://wonder.cdc.gov/mcd-icd10.html on Nov 2, 2018 4:23:43 PM",,,,,,,
+---,,,,,,,
+Caveats:,,,,,,,
+"1. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016",,,,,,,
+"postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July",,,,,,,
+"1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for",,,,,,,
+"year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS",,,,,,,
+"on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the",,,,,,,
+"Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race",,,,,,,
+"estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013.",,,,,,,
+"Population figures for 2011 are bridged-race estimates of the July 1 resident population, from the county-level postcensal",,,,,,,
+"Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population",,,,,,,
+"figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident population, from the revised intercensal",,,,,,,
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts.",,,,,,,
+Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for Infant Age,,,,,,,
+Groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from,,,,,,,
+"previously published reports, due to use of the population estimates which were available at the time of release.",,,,,,,
+2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group.,,,,,,,
+3. Changes to cause of death classification affect reporting trends. More information:,,,,,,,
+http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes.,,,,,,,
