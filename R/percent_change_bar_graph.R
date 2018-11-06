@@ -1,15 +1,18 @@
 install.packages("dplyr")
 library(dplyr)
 
-opioid_deaths_15_16 %>%
+updateddata <- opioid_deaths_15_16 <- opioid_deaths_15_16 %>%
   group_by(State) %>%
   mutate(Diff = Crude.Rate - lag(Crude.Rate))
 
-print(newdata)
+updateddata <- na.omit(opioid_deaths_15_16)
 
-counts <- newdata$Diff
-xaxis <- newdata$State
+print(updateddata)
 
 
-barplot(counts, names.arg = xaxis, main = "Change in Opioid Deaths 2015-2016", xlab = "State", ylab = "Difference in Crude Rate", col = "magenta", las=3)
+counts <- updateddata$Diff
+xaxis <- updateddata$State
+
+barplot(counts,  ylim = c(-5, 20), names.arg = xaxis, pos = -.2, main = "Change in Opioid Deaths 2015-2016",
+        ylab = "Difference in Crude Rate", col = "red", las=3)
 
